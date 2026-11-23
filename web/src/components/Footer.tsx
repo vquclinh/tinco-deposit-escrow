@@ -5,7 +5,7 @@ import { D, ESCROW, explorerAddress, isDeployed } from "@/lib/config";
 import { useT } from "@/lib/i18n";
 import { Icon, LogoMark } from "./icons";
 
-export const REPO = "https://github.com/vquclinh/assembly-unihack-2026";
+export const REPO = "https://github.com/vquclinh/tinco-deposit-escrow";
 
 export function Footer() {
   const t = useT();

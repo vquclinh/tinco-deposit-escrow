@@ -318,7 +318,7 @@ The contracts keep the project's working name, Coc, in their identifiers (for ex
 |---|---|
 | Quoc-Linh Vo | Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam; Vietnam National University, Ho Chi Minh City, Vietnam |
 
-Repository: https://github.com/vquclinh/assembly-unihack-2026
+Repository: https://github.com/vquclinh/tinco-deposit-escrow
 
 ---
 
